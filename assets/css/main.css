@@ -1353,7 +1353,7 @@ input, select, textarea {
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px black;
+				border-left: solid 1px #4a4943;
 			}
 
 				#header nav ul li:first-child {
@@ -1369,6 +1369,7 @@ input, select, textarea {
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
 					font-size: 0.8rem;
+					font-weight: 800;
 					border-bottom: 0;
 				}
 
